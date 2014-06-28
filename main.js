@@ -1,4 +1,4 @@
-var PromiseMixin = require('github:toranb/toranb-react-cjs-promise-mixin');
+var PromiseMixin = require('promise-mixin');
 
 var AjaxMixin = (function() {
     var mixin = function() {
