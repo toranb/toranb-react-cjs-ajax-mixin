@@ -1,0 +1,22 @@
+{
+  "name": "toranb-react-cjs-ajax-mixin",
+  "version": "0.2.1",
+  "homepage": "https://github.com/toranb/toranb-react-cjs-ajax-mixin",
+  "authors": [
+    "Toran Billups <toranb@gmail.com>"
+  ],
+  "description": "a simple ajax mixin for my cjs jspm demo",
+  "main": "main.js",
+  "dependencies": {
+      "toranb-react-cjs-promise-mixin": "*"
+  },
+  "keywords": [
+    "ajax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
